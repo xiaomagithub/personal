@@ -1,3 +1,4 @@
+git config --global core.autocrlf false
 # xiaomagithub
 
 ## 欢迎来到小马的GitHub网页
