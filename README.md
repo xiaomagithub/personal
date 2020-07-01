@@ -11,21 +11,23 @@
 ## 1.前端核心基础
 
 1.1 网页界面技术
-
+```markdown
   HTML
   CSS
-
-1.2 网页交互技术：
+```
+1.2 网页交互技术
+```markdown
   JavaScript
   DOM
   BOM
-
+```
 ## 2.前端核心高级
 
 2.1 网页界面新技术
+```markdown
   HTML5（语义化标签、本地存储、音视频等）
   CSS3（过渡、动画等）
-
+```
 2.2 移动端开发（移动端特性、适配等）
 
 2.3 前端样式库：BootStrap
@@ -41,9 +43,10 @@
 2.8 移动端类jQuery库：Zepto
 
 2.9 版本控制工具
+```markdown
   SVN
   Git&Github
-
+```
 ## 3.JS后台技术
 
 3.1 强大的后台JS：Node.js
@@ -53,21 +56,24 @@
 3.3 简洁的MongoDB操作库：Mongoose
 
 3.4 后台Web开发框架
+```markdown
   Express
   koa
-
+```
 3.5 后台模板引擎：EJS
 
 3.6 实时通信聊天库：socket.io
 
 3.7 网络通信协议
+```markdown
   http
   https
-
+```
 3.8 通信数据加密
+```markdown
   MD5
   jsonwebtoken
-
+```
 ## 4.前台交互
 
 4.1 AJAX
@@ -80,10 +86,11 @@
 
 4.5 跨域全面解决方案
 
-4.6 mock后台数据接口的库：
+4.6 mock后台数据接口的库
+```markdown
   Mock.js
   EasyMock
-
+```
 4.7 接口调试神器：postman
 
 4.8 基于promise封装原生ajax
@@ -107,16 +114,18 @@
 5.6 ES7新特性
 
 5.7 模块化规范
+```markdown
   CommonJS
   ES6
   AMD
   CMD
-
+```
 5.8 构建工具
+```markdown
   Grunt
   Gulp
   Webpack
-
+```
 ## 6.前端新型web框架
 
 ### 6.1 Google出品MVVM库：Angular
